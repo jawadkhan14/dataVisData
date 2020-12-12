@@ -1,4 +1,4 @@
-﻿Location,Cases,...per 100K people,Deaths,...per 100K people
+﻿Location,Cases,casePer100k,Deaths,deathsPer100k
 California,"1,524,440","3,858","20,859",53
 Texas,"1,388,909","4,790","24,143",83
 Florida,"1,106,396","5,151","19,714",92
